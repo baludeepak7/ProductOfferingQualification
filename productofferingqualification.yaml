@@ -1,0 +1,31 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: ProductOfferingQualification
+  description:  |
+    ProductOfferingQualification returns the list of bolton offerings that the customer can add to its account.
+spec:
+  type: openapi
+  owner: Developer
+  lifecycle: production
+  definition:
+    $text: https://github.com/baludeepak7/ProductOfferingQualification/blob/main/productofferingqualification.yaml
+    
+---
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ProductOfferingQualification
+  description: |
+    ProductOfferingQualification returns the list of bolton offerings that the customer can add to its account.
+  annotations:
+    gitlab.com/project-id: '48576071'
+    sonarqube.org/project-key: com.binpipe.spboot:demo
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  lifecycle: production
+  owner: Developer
+  providesApis:
+    - ProductOfferingQualification
