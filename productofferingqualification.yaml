@@ -8,7 +8,7 @@ spec:
   type: openapi
   owner: Developer
   lifecycle: production
-  system: MOBILE ESB
+  system: MOBILE
   definition:
     $text: https://github.com/baludeepak7/ProductOfferingQualification/blob/main/productofferingqualification.yaml
     
@@ -28,6 +28,6 @@ spec:
   type: service
   lifecycle: production
   owner: Developer
-  system: MOBILE ESB
+  system: MOBILE
   providesApis:
     - ProductOfferingQualification
