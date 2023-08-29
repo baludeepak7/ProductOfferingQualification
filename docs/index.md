@@ -6,9 +6,7 @@
 
 Version 1.3
 
-**\
-**[[[[]{#_Toc159915941 .anchor}]{#_Toc156645503 .anchor}]{#_Toc153600109
-.anchor}]{#_Toc153595979 .anchor}DOCUMENT INFORMATION
+**DOCUMENT INFORMATION**
 
   -------------------------- ----------------------------
   **Document Author:**       Dolly Khurana
@@ -16,8 +14,7 @@ Version 1.3
   **Retention period:**      3 years
   -------------------------- ----------------------------
 
-[[[[[]{#_Toc143240777 .anchor}]{#_Toc159915942 .anchor}]{#_Toc156645504
-.anchor}]{#_Toc153600110 .anchor}]{#_Toc153595980 .anchor}CHANGE HISTORY
+**CHANGE HISTORY**
 
   ------------- ------------ ---------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Version**   **Date**     **Changed by**   **Changes**
@@ -79,9 +76,7 @@ Version 1.3
   1.3           01-06-2022   Dolly Khurana    Added an optional request element “returnConflicts” in Get Valid Product Offerings API in order to query all the offers including the conflicts with the existing products.
   ------------- ------------ ---------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[[[[[[]{#_Toc143240778 .anchor}]{#_Toc237660663 .anchor}]{#_Toc159915943
-.anchor}]{#_Toc156645505 .anchor}]{#_Toc153600111
-.anchor}]{#_Toc153595981 .anchor}RELATED DOCUMENTS
+**RELATED DOCUMENTS**
 
   -------- -------------------------------------------------------------------------------- ------------- -----------------------------------------------
   **ID**   **Name**                                                                         **Version**   **Description**
@@ -90,9 +85,7 @@ Version 1.3
   3        NC.O2.INT Telecom Business API Specification                                     0.28          Netcracker TB API specification
   -------- -------------------------------------------------------------------------------- ------------- -----------------------------------------------
 
-[[[[[[]{#_Toc143240779 .anchor}]{#_Toc237660664 .anchor}]{#_Toc159915944
-.anchor}]{#_Toc156645506 .anchor}]{#_Toc153600112
-.anchor}]{#_Toc153595982 .anchor}DESIGN LEAD SIGN-OFF
+**DESIGN LEAD SIGN-OFF**
 
   --------------- ------------------------------------- ----------- ------------
   **Name:**       Rajesh Kota
@@ -100,9 +93,7 @@ Version 1.3
   **APPROVED:**   YES
   --------------- ------------------------------------- ----------- ------------
 
-[[[[[[]{#_Toc143240780 .anchor}]{#_Toc237660665 .anchor}]{#_Toc159915945
-.anchor}]{#_Toc156645507 .anchor}]{#_Toc153600113
-.anchor}]{#_Toc153595983 .anchor}DESIGN GOVERNANCE SIGN-OFF
+**DESIGN GOVERNANCE SIGN-OFF**
 
   --------------- ------------------------------------- ----------- ------------
   **Name:**       Rajesh Kota
@@ -110,16 +101,14 @@ Version 1.3
   **APPROVED:**   YES
   --------------- ------------------------------------- ----------- ------------
 
-[[[[[[]{#_Toc143240781 .anchor}]{#_Toc237660666 .anchor}]{#_Toc159915946
-.anchor}]{#_Toc156645508 .anchor}]{#_Toc153600114
-.anchor}]{#_Toc153595984 .anchor}ADDITIONAL APPROVAL SIGNATORIES
+**ADDITIONAL APPROVAL SIGNATORIES**
 
   ------------ --------------------------- -------------- ------------
   **Name**     **Role**                    **Approved**   **Date**
   Tony Brand   Solution Designer for AO2   YES            14/12/2020
   ------------ --------------------------- -------------- ------------
 
-Contents
+**Contents**
 
 [CHANGE HISTORY 2](#_Toc143240777)
 
